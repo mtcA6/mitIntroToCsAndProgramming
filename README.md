@@ -1,4 +1,4 @@
-## Introduction to CS and Programming using Python
+## Introduction to Computer Science and Programming using Python
 
 MIT offers archived versions of some of their classes online. I initially took this class on my own and when I was 3/4 of the way
 complete I decided to take the UMBC Extension School's "Foundations of Software Development" course which focused on Python. 
